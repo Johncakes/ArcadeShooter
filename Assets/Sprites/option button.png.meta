@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 74142d0875066c842b0da485274f5cde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8552627235065332694
+    second: option button_0
+  - first:
+      213: 8327631799645027844
+    second: option button_1
+  - first:
+      213: -5075161395261444072
+    second: option button_2
+  - first:
+      213: -7499698459782353668
+    second: option button_3
+  - first:
+      213: 2484896753991990729
+    second: option button_4
+  - first:
+      213: -8018696290052505025
+    second: option button_5
+  - first:
+      213: 8929314110993257917
+    second: option button_6
+  - first:
+      213: -1014270975394514718
+    second: option button_7
+  - first:
+      213: -9128849516473728739
+    second: option button_8
+  - first:
+      213: 5462827881282260010
+    second: option button_9
+  - first:
+      213: -3809999090128274888
+    second: option button_10
+  - first:
+      213: 9202308243893849439
+    second: option button_11
+  - first:
+      213: 9023530702134889689
+    second: option button_12
+  - first:
+      213: -5799883725856734855
+    second: option button_13
+  - first:
+      213: -5942672015273733205
+    second: option button_14
+  - first:
+      213: -5490422799698562670
+    second: option button_15
+  - first:
+      213: 72517503448412465
+    second: option button_16
+  - first:
+      213: 7066163358391794303
+    second: option button_17
+  - first:
+      213: -7106382787528428196
+    second: option button_18
+  - first:
+      213: 8435684078576853014
+    second: option button_19
+  - first:
+      213: 7341626409414427269
+    second: option button_20
+  - first:
+      213: 1747153685559209079
+    second: option button_21
+  - first:
+      213: 5464160454011017112
+    second: option button_22
+  - first:
+      213: 194091231441858811
+    second: option button_23
+  - first:
+      213: -7840211384257042459
+    second: option button_24
+  - first:
+      213: 7976725575285430082
+    second: option button_25
+  - first:
+      213: -737939378236958746
+    second: option button_26
+  - first:
+      213: 8437703526417560947
+    second: option button_27
+  - first:
+      213: -5411367840987737782
+    second: option button_28
+  - first:
+      213: 4800505830379525494
+    second: option button_29
+  - first:
+      213: 8279326177060955274
+    second: option button_30
+  - first:
+      213: -5662559798128268002
+    second: option button_31
+  - first:
+      213: 7634414819739478406
+    second: option button_32
+  - first:
+      213: -4650601291631896226
+    second: option button_33
+  - first:
+      213: 6903996582489356515
+    second: option button_34
+  - first:
+      213: -2659116081201124238
+    second: option button_35
+  - first:
+      213: -8997471998614185511
+    second: option button_36
+  - first:
+      213: -5303661523544561185
+    second: option button_37
+  - first:
+      213: -6902770568552957668
+    second: option button_38
+  - first:
+      213: 1687378714203100610
+    second: option button_39
+  - first:
+      213: 6599925647467922054
+    second: option button_40
+  - first:
+      213: -7934886657415510004
+    second: option button_41
+  - first:
+      213: 4144626756892651901
+    second: option button_42
+  - first:
+      213: 3261564467831422183
+    second: option button_43
+  - first:
+      213: 4413122838367376932
+    second: option button_44
+  - first:
+      213: -6349615797592232429
+    second: option button_45
+  - first:
+      213: 79330856007026472
+    second: option button_46
+  - first:
+      213: -2255825320104873044
+    second: option button_47
+  - first:
+      213: -4686469965469459525
+    second: option button_48
+  - first:
+      213: 367047514355901256
+    second: option button_49
+  - first:
+      213: -5248030808579619712
+    second: option button_50
+  - first:
+      213: -4647701577794979692
+    second: option button_51
+  - first:
+      213: 3399292429822098042
+    second: option button_52
+  - first:
+      213: -6746458660556679044
+    second: option button_53
+  - first:
+      213: 6458573369678824811
+    second: option button_54
+  - first:
+      213: 80674725905817618
+    second: option button_55
+  - first:
+      213: -6973909701143564291
+    second: option button_56
+  - first:
+      213: 5301446694378908812
+    second: option button_57
+  - first:
+      213: -1845795658497946710
+    second: option button_58
+  - first:
+      213: 9088169770145275265
+    second: option button_59
+  - first:
+      213: -4436912343138812493
+    second: option button_60
+  - first:
+      213: 5080267641572760591
+    second: option button_61
+  - first:
+      213: 1105273716882984041
+    second: option button_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: option button_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c799de7d6fe4980800000000000000
+      internalID: -8552627235065332694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option button_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb6160001b19370800000000000000
+      internalID: 8327631799645027844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: option button_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107aa1b9976199b0800000000000000
+      internalID: -5075161395261444072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

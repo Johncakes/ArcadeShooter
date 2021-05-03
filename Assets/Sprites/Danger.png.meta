@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: bd8fa1379f9e5804cb927896587d9848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5102004344226633193
+    second: Danger_0
+  - first:
+      213: 8924940352759613792
+    second: Danger_1
+  - first:
+      213: -3264937012863203426
+    second: Danger_2
+  - first:
+      213: 7472039392437899067
+    second: Danger_3
+  - first:
+      213: -7708547490525204511
+    second: Danger_4
+  - first:
+      213: -8569865589388291801
+    second: Danger_5
+  - first:
+      213: 7875954215185554386
+    second: Danger_6
+  - first:
+      213: -1970733898137385036
+    second: Danger_7
+  - first:
+      213: -2358178938520614510
+    second: Danger_8
+  - first:
+      213: 3693469034153219098
+    second: Danger_9
+  - first:
+      213: -2201876042882838847
+    second: Danger_10
+  - first:
+      213: -8711291788012240131
+    second: Danger_11
+  - first:
+      213: -3268726546113980273
+    second: Danger_12
+  - first:
+      213: 439684804669098927
+    second: Danger_13
+  - first:
+      213: 7642504531584974364
+    second: Danger_14
+  - first:
+      213: 1858183890904757612
+    second: Danger_15
+  - first:
+      213: 5511153255527512038
+    second: Danger_16
+  - first:
+      213: -4606465302789856052
+    second: Danger_17
+  - first:
+      213: -6866368333850944391
+    second: Danger_18
+  - first:
+      213: -7588154097259943486
+    second: Danger_19
+  - first:
+      213: 3945670841296171946
+    second: Danger_20
+  - first:
+      213: -2182090160934697576
+    second: Danger_21
+  - first:
+      213: -9033282954347258943
+    second: Danger_22
+  - first:
+      213: 3641863098449328407
+    second: Danger_23
+  - first:
+      213: -1944710091757482282
+    second: Danger_24
+  - first:
+      213: 4473738743442313367
+    second: Danger_25
+  - first:
+      213: -8715310475873814952
+    second: Danger_26
+  - first:
+      213: -1905280856475585958
+    second: Danger_27
+  - first:
+      213: 5765171479552581949
+    second: Danger_28
+  - first:
+      213: 6001353542812638888
+    second: Danger_29
+  - first:
+      213: 6911060061485207920
+    second: Danger_30
+  - first:
+      213: -6899990417254807080
+    second: Danger_31
+  - first:
+      213: 5949720134551280216
+    second: Danger_32
+  - first:
+      213: 1905670738018347492
+    second: Danger_33
+  - first:
+      213: 8650917677805839655
+    second: Danger_34
+  - first:
+      213: 5135472997138298085
+    second: Danger_35
+  - first:
+      213: 5932130363044104539
+    second: Danger_36
+  - first:
+      213: -8946564593246139304
+    second: Danger_37
+  - first:
+      213: -4143898464990668856
+    second: Danger_38
+  - first:
+      213: -2520763793656714137
+    second: Danger_39
+  - first:
+      213: 7920338963291549829
+    second: Danger_40
+  - first:
+      213: -2615581277302053704
+    second: Danger_41
+  - first:
+      213: 2424226602458304992
+    second: Danger_42
+  - first:
+      213: 2209046083120342264
+    second: Danger_43
+  - first:
+      213: -2350383367570655349
+    second: Danger_44
+  - first:
+      213: 5000869908656713998
+    second: Danger_45
+  - first:
+      213: -5243280205356762837
+    second: Danger_46
+  - first:
+      213: 3140062446764887065
+    second: Danger_47
+  - first:
+      213: 6364163070242251337
+    second: Danger_48
+  - first:
+      213: -3138878122520180248
+    second: Danger_49
+  - first:
+      213: -2872747688691506420
+    second: Danger_50
+  - first:
+      213: 2844882508618464200
+    second: Danger_51
+  - first:
+      213: -429075337000420494
+    second: Danger_52
+  - first:
+      213: 2479856619712623544
+    second: Danger_53
+  - first:
+      213: 5410051615116247383
+    second: Danger_54
+  - first:
+      213: 703149448191845598
+    second: Danger_55
+  - first:
+      213: -2822586583782992189
+    second: Danger_56
+  - first:
+      213: 1448156306291367331
+    second: Danger_57
+  - first:
+      213: 3172109646880622559
+    second: Danger_58
+  - first:
+      213: -1507975720548516345
+    second: Danger_59
+  - first:
+      213: 8948372356132865845
+    second: Danger_60
+  - first:
+      213: -4047286234691723578
+    second: Danger_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Danger_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2fdb941a0239b0800000000000000
+      internalID: -5102004344226633193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danger_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06949c7e6f1cbdb70800000000000000
+      internalID: 8924940352759613792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danger_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97834ec51d90b2d0800000000000000
+      internalID: -3264937012863203426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danger_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8cf52d3402b760800000000000000
+      internalID: 7472039392437899067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danger_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef240526ecb50590800000000000000
+      internalID: -7708547490525204511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danger_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721daabc6a8b11980800000000000000
+      internalID: -8569865589388291801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - BorderBullet
+  - ItemCollider
+  - PlayerBullet
+  - Enemies
+  - GM
+  - LevelChanger
+  - Wall X axis
+  - Wall Y axis
+  - GameWalls
+  - EnemiesAttack
+  - MainImage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2370090001
+    locked: 0
+  - name: PowerUP,Bullets
+    uniqueID: 3437476297
+    locked: 0
+  - name: Player
+    uniqueID: 4119002831
+    locked: 0
+  - name: Enemies
+    uniqueID: 2410954727
+    locked: 0
+  - name: EnemiesAttact
+    uniqueID: 2005632297
+    locked: 0
